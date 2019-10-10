@@ -1,0 +1,12 @@
+==============================/nLOGGER NEW SESSION/n==============================/ncommand: ls
+forked child process successfully
+child process terminated with status 
+command: galculator &
+child process terminated with status 
+forked child process successfully
+command: ls
+child process terminated with status 
+forked child process successfully
+command: ls
+child process terminated with status 
+forked child process successfully
