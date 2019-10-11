@@ -1,12 +1,231 @@
-==============================/nLOGGER NEW SESSION/n==============================/ncommand: ls
-forked child process successfully
-child process terminated with status 
-command: galculator &
-child process terminated with status 
-forked child process successfully
-command: ls
-child process terminated with status 
-forked child process successfully
-command: ls
-child process terminated with status 
-forked child process successfully
+============================== LOGGER NEW SESSION ==============================
+Fri Oct 11 13:01:34 2019
+	command: ls
+Fri Oct 11 13:01:34 2019
+	forked child process successfully
+Fri Oct 11 13:01:34 2019
+	child process terminated with status 
+Fri Oct 11 13:01:39 2019
+	command: ls &
+Fri Oct 11 13:01:39 2019
+	forked child process successfully
+Fri Oct 11 13:01:39 2019
+	background child process terminated
+Fri Oct 11 13:01:58 2019
+	command: ls
+Fri Oct 11 13:01:58 2019
+	forked child process successfully
+Fri Oct 11 13:01:58 2019
+	background child process terminated
+Fri Oct 11 13:01:58 2019
+	child process terminated with status 
+Fri Oct 11 13:02:40 2019
+	command: galculator &
+Fri Oct 11 13:02:40 2019
+	forked child process successfully
+Fri Oct 11 13:02:40 2019
+	background child process terminated
+============================== LOGGER NEW SESSION ==============================
+Fri Oct 11 13:03:20 2019
+	command: ls
+Fri Oct 11 13:03:20 2019
+	forked child process successfully
+Fri Oct 11 13:03:20 2019
+	child process terminated with status 
+Fri Oct 11 13:03:35 2019
+	command: galculator &
+Fri Oct 11 13:03:35 2019
+	forked child process successfully
+Fri Oct 11 13:03:35 2019
+	background child process terminated
+Fri Oct 11 13:03:55 2019
+	command: ls
+Fri Oct 11 13:03:55 2019
+	forked child process successfully
+Fri Oct 11 13:03:55 2019
+	background child process terminated
+Fri Oct 11 13:03:55 2019
+	child process terminated with status 
+Fri Oct 11 13:04:03 2019
+	command: firefox &
+Fri Oct 11 13:04:03 2019
+	forked child process successfully
+Fri Oct 11 13:04:10 2019
+	command: ls
+Fri Oct 11 13:04:10 2019
+	forked child process successfully
+============================== LOGGER NEW SESSION ==============================
+Fri Oct 11 13:05:07 2019
+	command: ls
+Fri Oct 11 13:05:07 2019
+	forked child process successfully
+Fri Oct 11 13:05:07 2019
+	child process terminated with status 
+Fri Oct 11 13:05:23 2019
+	command: firefox &
+Fri Oct 11 13:05:23 2019
+	forked child process successfully
+Fri Oct 11 13:05:33 2019
+	command: ls
+Fri Oct 11 13:05:33 2019
+	forked child process successfully
+Fri Oct 11 13:14:39 2019
+	background child process terminated
+Fri Oct 11 13:14:39 2019
+	background child process terminated
+Fri Oct 11 13:14:39 2019
+	child process terminated with status 
+============================== LOGGER NEW SESSION ==============================
+Fri Oct 11 13:18:04 2019
+	command: ls
+Fri Oct 11 13:18:04 2019
+	forked child process successfully
+Fri Oct 11 13:18:04 2019
+	child process terminated with status 
+Fri Oct 11 13:18:10 2019
+	command: firefox &
+Fri Oct 11 13:18:10 2019
+	forked child process successfully
+Fri Oct 11 13:18:15 2019
+	command: ls
+Fri Oct 11 13:18:15 2019
+	forked child process successfully
+Fri Oct 11 13:18:32 2019
+	background child process terminated
+Fri Oct 11 13:18:32 2019
+	background child process terminated
+Fri Oct 11 13:18:32 2019
+	child process terminated with status 
+Fri Oct 11 13:18:33 2019
+	command: ls
+Fri Oct 11 13:18:33 2019
+	forked child process successfully
+Fri Oct 11 13:18:33 2019
+	background child process terminated
+Fri Oct 11 13:18:33 2019
+	child process terminated with status 
+============================== LOGGER NEW SESSION ==============================
+Fri Oct 11 13:20:16 2019
+	command: ls
+Fri Oct 11 13:20:16 2019
+	forked child process successfully
+Fri Oct 11 13:20:16 2019
+	child process terminated with status 
+Fri Oct 11 13:20:20 2019
+	command: firefox &
+Fri Oct 11 13:20:20 2019
+	forked child process successfully
+Fri Oct 11 13:20:24 2019
+	command: ls
+Fri Oct 11 13:20:24 2019
+	forked child process successfully
+============================== LOGGER NEW SESSION ==============================
+Fri Oct 11 13:22:05 2019
+	command: ls
+Fri Oct 11 13:22:05 2019
+	forked child process successfully
+Fri Oct 11 13:22:05 2019
+	child process terminated with status 
+Fri Oct 11 13:22:10 2019
+	command: firefox &
+Fri Oct 11 13:22:10 2019
+	forked child process successfully
+Fri Oct 11 13:22:13 2019
+	command: ls
+Fri Oct 11 13:22:13 2019
+	forked child process successfully
+Fri Oct 11 13:22:14 2019
+	background child process terminated
+Fri Oct 11 13:22:14 2019
+	child process terminated with status 
+Fri Oct 11 13:22:25 2019
+	background child process terminated
+Fri Oct 11 13:22:59 2019
+	command: ls
+Fri Oct 11 13:22:59 2019
+	child process terminated with status 
+Fri Oct 11 13:22:59 2019
+	forked child process successfully
+Fri Oct 11 13:22:59 2019
+	background child process terminated
+Fri Oct 11 13:23:07 2019
+	command: ls
+Fri Oct 11 13:23:07 2019
+	child process terminated with status 
+Fri Oct 11 13:23:07 2019
+	forked child process successfully
+Fri Oct 11 13:23:07 2019
+	background child process terminated
+============================== LOGGER NEW SESSION ==============================
+Fri Oct 11 13:27:56 2019
+	command: ls
+Fri Oct 11 13:27:56 2019
+	forked child process successfully
+Fri Oct 11 13:27:56 2019
+	child process terminated with status 
+Fri Oct 11 13:28:04 2019
+	command: firefox &
+Fri Oct 11 13:28:04 2019
+	forked child process successfully
+Fri Oct 11 13:28:09 2019
+	command: ls
+Fri Oct 11 13:28:09 2019
+	forked child process successfully
+Fri Oct 11 13:28:09 2019
+	background child process terminated
+Fri Oct 11 13:28:09 2019
+	child process terminated with status 
+Fri Oct 11 13:28:15 2019
+	command: ls -l -a
+Fri Oct 11 13:28:15 2019
+	forked child process successfully
+Fri Oct 11 13:28:15 2019
+	background child process terminated
+Fri Oct 11 13:28:15 2019
+	child process terminated with status 
+Fri Oct 11 13:28:29 2019
+	command: galculator &
+Fri Oct 11 13:28:29 2019
+	forked child process successfully
+Fri Oct 11 13:28:29 2019
+	background child process terminated
+Fri Oct 11 13:28:43 2019
+	background child process terminated
+Fri Oct 11 13:28:54 2019
+	command: ls
+Fri Oct 11 13:28:54 2019
+	child process terminated with status 
+Fri Oct 11 13:28:54 2019
+	forked child process successfully
+Fri Oct 11 13:28:54 2019
+	background child process terminated
+Fri Oct 11 13:29:12 2019
+	command: ls
+Fri Oct 11 13:29:12 2019
+	child process terminated with status 
+Fri Oct 11 13:29:12 2019
+	forked child process successfully
+Fri Oct 11 13:29:12 2019
+	background child process terminated
+Fri Oct 11 13:29:15 2019
+	command: ls
+Fri Oct 11 13:29:15 2019
+	child process terminated with status 
+Fri Oct 11 13:29:15 2019
+	forked child process successfully
+Fri Oct 11 13:29:15 2019
+	background child process terminated
+Fri Oct 11 13:29:19 2019
+	command: ls
+Fri Oct 11 13:29:19 2019
+	child process terminated with status 
+Fri Oct 11 13:29:19 2019
+	forked child process successfully
+Fri Oct 11 13:29:19 2019
+	background child process terminated
+Fri Oct 11 13:29:26 2019
+	command: 
+Fri Oct 11 13:29:26 2019
+	child process terminated with status 
+Fri Oct 11 13:29:26 2019
+	forked child process successfully

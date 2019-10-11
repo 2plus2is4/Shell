@@ -17,4 +17,8 @@ bits/stdc++.h
 -
 sys/wait.h
 -
+sys/types.h
+-
+time.h
+-
 
